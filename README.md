@@ -1,4 +1,4 @@
-# lab 7
+# Final Project OS (Spring 2023).
 
 
 ## Authors and acknowledgment
